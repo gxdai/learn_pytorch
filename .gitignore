@@ -1,0 +1,14 @@
+*.zip
+data/
+faces/
+hymenoptera_data/
+images/
+img_align_celeba_png.7z/*
+processed/*
+raw/*
+facades/*
+*pkl
+*png
+*pkl
+*.pth
+*.pt
